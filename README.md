@@ -37,7 +37,7 @@ Your game will have to respect the genre of one of these games listed below. In 
     Flipper/ Pinball
     Space Invaders
     Donkey Kong
-    Brick Breaker/ Arkanoid
+    Brick Breaker/ Arkanoid <== our choice
     Pac-Man
     Super Mario
     Tetris
